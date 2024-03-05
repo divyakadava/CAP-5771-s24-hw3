@@ -56,7 +56,7 @@ def question1():
     answers["(h) explain"] = "Changes in cluster assignments can lead to variations in both SSE and SSB, affecting their sum."
 
     # type: bool (True/False)
-    answers["(i)"] = True
+    answers["(i)"] = False
 
     # type: explanatory string (at least four words)
     answers["(i) explain"] = "Increasing cohesion does not necessarily increase separation in K-means"
